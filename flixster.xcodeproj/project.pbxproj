@@ -51,6 +51,7 @@
 		F0FF02BA25A9F769005ED948 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F0FF02D925A9FE49005ED948 /* MoviesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesViewController.swift; sourceTree = "<group>"; };
 		F0FF02E125AA06FA005ED948 /* MovieCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieCell.swift; sourceTree = "<group>"; };
+		F0FF02E625AA1004005ED948 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +82,7 @@
 		F0FF028A25A9F767005ED948 = {
 			isa = PBXGroup;
 			children = (
+				F0FF02E625AA1004005ED948 /* README.md */,
 				F0FF029525A9F767005ED948 /* flixster */,
 				F0FF02AC25A9F769005ED948 /* flixsterTests */,
 				F0FF02B725A9F769005ED948 /* flixsterUITests */,
